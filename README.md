@@ -1,1 +1,5 @@
-# scriptroblox1
+FITUR
+FLY
+INF JUMP
+NO CLIP
+RESET PLAYER
